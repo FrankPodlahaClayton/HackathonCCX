@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b423869.css",
-    "main.js": "/static/js/main.7a13b089.js",
-    "static/css/828.3d8fc7d9.chunk.css": "/static/css/828.3d8fc7d9.chunk.css",
-    "static/js/828.d268eb00.chunk.js": "/static/js/828.d268eb00.chunk.js",
-    "static/css/843.31d6cfe0.chunk.css": "/static/css/843.31d6cfe0.chunk.css",
-    "static/js/843.5dd0c707.chunk.js": "/static/js/843.5dd0c707.chunk.js",
-    "static/css/815.31d6cfe0.chunk.css": "/static/css/815.31d6cfe0.chunk.css",
-    "static/js/815.6a033315.chunk.js": "/static/js/815.6a033315.chunk.js",
-    "static/css/338.31d6cfe0.chunk.css": "/static/css/338.31d6cfe0.chunk.css",
-    "static/js/338.d86c2512.chunk.js": "/static/js/338.d86c2512.chunk.js",
-    "static/js/787.6a6f43d4.chunk.js": "/static/js/787.6a6f43d4.chunk.js",
-    "static/media/homepage600.png": "/static/media/homepage600.c63db5410a56786443a4.png",
-    "index.html": "/index.html",
-    "main.0b423869.css.map": "/static/css/main.0b423869.css.map",
-    "main.7a13b089.js.map": "/static/js/main.7a13b089.js.map",
-    "828.3d8fc7d9.chunk.css.map": "/static/css/828.3d8fc7d9.chunk.css.map",
-    "828.d268eb00.chunk.js.map": "/static/js/828.d268eb00.chunk.js.map",
-    "843.5dd0c707.chunk.js.map": "/static/js/843.5dd0c707.chunk.js.map",
-    "815.6a033315.chunk.js.map": "/static/js/815.6a033315.chunk.js.map",
-    "338.d86c2512.chunk.js.map": "/static/js/338.d86c2512.chunk.js.map",
-    "787.6a6f43d4.chunk.js.map": "/static/js/787.6a6f43d4.chunk.js.map"
+    "main.css": "/HackathonCCX/static/css/main.0b423869.css",
+    "main.js": "/HackathonCCX/static/js/main.f4e02a99.js",
+    "static/css/828.3d8fc7d9.chunk.css": "/HackathonCCX/static/css/828.3d8fc7d9.chunk.css",
+    "static/js/828.d268eb00.chunk.js": "/HackathonCCX/static/js/828.d268eb00.chunk.js",
+    "static/css/843.31d6cfe0.chunk.css": "/HackathonCCX/static/css/843.31d6cfe0.chunk.css",
+    "static/js/843.5dd0c707.chunk.js": "/HackathonCCX/static/js/843.5dd0c707.chunk.js",
+    "static/css/815.31d6cfe0.chunk.css": "/HackathonCCX/static/css/815.31d6cfe0.chunk.css",
+    "static/js/815.6a033315.chunk.js": "/HackathonCCX/static/js/815.6a033315.chunk.js",
+    "static/css/338.31d6cfe0.chunk.css": "/HackathonCCX/static/css/338.31d6cfe0.chunk.css",
+    "static/js/338.d86c2512.chunk.js": "/HackathonCCX/static/js/338.d86c2512.chunk.js",
+    "static/js/787.6a6f43d4.chunk.js": "/HackathonCCX/static/js/787.6a6f43d4.chunk.js",
+    "static/media/homepage600.png": "/HackathonCCX/static/media/homepage600.c63db5410a56786443a4.png",
+    "index.html": "/HackathonCCX/index.html",
+    "main.0b423869.css.map": "/HackathonCCX/static/css/main.0b423869.css.map",
+    "main.f4e02a99.js.map": "/HackathonCCX/static/js/main.f4e02a99.js.map",
+    "828.3d8fc7d9.chunk.css.map": "/HackathonCCX/static/css/828.3d8fc7d9.chunk.css.map",
+    "828.d268eb00.chunk.js.map": "/HackathonCCX/static/js/828.d268eb00.chunk.js.map",
+    "843.5dd0c707.chunk.js.map": "/HackathonCCX/static/js/843.5dd0c707.chunk.js.map",
+    "815.6a033315.chunk.js.map": "/HackathonCCX/static/js/815.6a033315.chunk.js.map",
+    "338.d86c2512.chunk.js.map": "/HackathonCCX/static/js/338.d86c2512.chunk.js.map",
+    "787.6a6f43d4.chunk.js.map": "/HackathonCCX/static/js/787.6a6f43d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b423869.css",
-    "static/js/main.7a13b089.js"
+    "static/js/main.f4e02a99.js"
   ]
 }
